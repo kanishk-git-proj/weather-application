@@ -25,7 +25,7 @@ To run the weather forecast application, you'll need the following:
 
 ### Installation
 1. Clone the repository to your local machine.
-   git clone https://github.com/kanishk-git-proj/weather-application.git
+   git clone https://github.com/kanishk-git-proj/weather-application-backend.git
 2. Navigate to the frontend project directory and install dependencies.
     cd your-file-path/weather-app
     npm install
