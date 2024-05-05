@@ -33,6 +33,12 @@ To run the weather forecast application, you'll need the following:
 3. Navigate to the backend project directory and install Ruby dependencies.
     cd ../weather_forecast_app
     bundle install
+4. .ENV file and API key
+   1. Create a `.env` file in the project root of backend code base.
+   2. Add the following line to the `.env` file:
+      export OPENWEATHER_API_KEY = 'edac099d4f7db1947e57945faa859433'
+   3. Save the .env file.
+   4. Run the project as mentioned below.
     
 ### Running the Backend
 1. To start the Ruby on Rails server:
